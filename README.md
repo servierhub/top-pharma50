@@ -107,7 +107,7 @@ Also be sure to check our companion list of [best open source software from thos
 |||<img src="https://avatars.githubusercontent.com/u/134665590?s=200&v=4" width="32" height="32"> [MedManageW](https://github.com/MedManageW)|0|1|0|
 |||<img src="https://avatars.githubusercontent.com/u/73344207?s=200&v=4" width="32" height="32"> [Impact department at Novo Nordisk Foundation](https://github.com/NNF-impact)|0|1|3|
 |||<img src="https://avatars.githubusercontent.com/u/81363278?s=200&v=4" width="32" height="32"> [Novo Nordisk - IT Site MOC](https://github.com/novonordiskit-itmoc)|0|1|0|
-|||<img src="https://avatars.githubusercontent.com/u/148286309?s=200&v=4" width="32" height="32"> [Novo Nordisk Research Center Oxford | DD&IT R&ED](https://github.com/red-ddit-nnrco)|0|1|0|
+|||<img src="https://avatars.githubusercontent.com/u/148286309?s=200&v=4" width="32" height="32"> [Novo Nordisk Research Center Oxford \| DD&IT R&ED](https://github.com/red-ddit-nnrco)|0|1|0|
 |||<img src="https://avatars.githubusercontent.com/u/43541443?s=200&v=4" width="32" height="32"> [Novo Nordisk PS Biopharm](https://github.com/NNBiopharm)|0|1|0|
 |||<img src="https://avatars.githubusercontent.com/u/128593487?s=200&v=4" width="32" height="32"> [NovoNordisk Test](https://github.com/NovoNordisk-Test)|0|0|0|
 |||<img src="https://avatars.githubusercontent.com/u/162385710?s=200&v=4" width="32" height="32"> [Novo Nordisk Inc.](https://github.com/Novo-Nordisk-Inc)|0|0|0|
