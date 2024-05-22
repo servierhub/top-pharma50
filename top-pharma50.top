@@ -1,0 +1,28 @@
+<!--author="Hubert Tournier"-->
+<!--topgh:source id="pharma50" file="top-pharma50.src"-->
+<!--topgh:destination file="README.md" format="MD"-->
+# Top 50 pharmaceutical companies on GitHub
+This is an automatically generated[^1] list of the world [top 50](https://www.pharmexec.com/view/2023-pharm-exec-top-50-companies) [pharmaceutical companies](https://en.wikipedia.org/wiki/List_of_pharmaceutical_companies)[^2] that are present on GitHub. It will be periodically refreshed.
+
+Also be sure to check our companion list of [best open source software from those companies](https://github.com/servierhub/top-opensource-pharma50).
+
+## Ranked by starred repositories
+<!--topgh:top.accounts.1 source="pharma50" order_by="stars"-->
+
+> [!NOTE]
+> **Repos** includes forked repositories but excludes ".github" or account namesake ones.<br>
+> **followers** accumulates accounts followers whether they are unique or not.
+
+> [!TIP]
+> If your company is not listed, if one of your GitHub accounts is missing or if one of the accounts is not yours,
+> please [contact us](https://github.com/servierhub/top-pharma50/discussions) for modification,
+> or [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks) this repository,
+> edit the [top-pharma50.src](https://github.com/servierhub/top-pharma50/blob/main/top-pharma50.src) source file
+> and make a [pull request](https://docs.github.com/articles/about-pull-requests).
+
+## Ranked by starred repositories with details
+<!--topgh:top.accounts.2 source="pharma50" order_by="stars" show_accounts=True-->
+
+[^1]: This page was generated with the [topgh](https://github.com/HubTou/topgh) open source software on 
+<!--topgh:date-->
+[^2]: Independent from other groups

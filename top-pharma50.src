@@ -1,0 +1,367 @@
+# Top 50 pharmaceutical companies on GitHub
+# (independent from other groups)
+
+# Author: Hubert Tournier
+
+# References:
+# https://en.wikipedia.org/wiki/List_of_pharmaceutical_companies
+# https://www.pharmexec.com/view/2023-pharm-exec-top-50-companies for 2023rank
+
+#GitHub account|Group|Key=Value ...
+#--------------|-----|-------------
+
+# Pfizer
+*|Pfizer|country="US" website="https://en.wikipedia.org/wiki/Pfizer" 2023rank=1
+pfizer-opensource|Pfizer|r=24
+PfizerRD|Pfizer|r=12
+ResAppHealth|Pfizer|r=12
+openPfizer|Pfizer|r=9
+pfizer-operations-and-insights|Pfizer|r=1
+pfizer|Pfizer|f=297
+pfizer-rd|Pfizer|f=291
+pfizer-analytics|Pfizer|f=157
+pfizer-digital-manufacuring|Pfizer|f=50
+pfizer-pic|Pfizer|f=7
+pfizer-evgen|Pfizer|f=6
+pfizer-eps|Pfizer|
+pfizer-marm|Pfizer|
+pfizer-esc|Pfizer|
+pfizer-business-services|Pfizer|
+pfizer-source|Pfizer|
+pfizer-finance|Pfizer|
+pfizer-commercial|Pfizer|
+Pfizer-LatinAmerica|Pfizer|
+pfizer-clinical-supply|Pfizer|
+pfizer-digital-supply|Pfizer|
+pfizer-utils|Pfizer|
+pfizer-compliance|Pfizer|
+Lucira-Health|Pfizer|
+pfizer-github-automation|Pfizer|
+pfizer-eps-dpp|Pfizer|
+
+# AbbVie
+*|AbbVie|country="US" website="https://en.wikipedia.org/wiki/AbbVie" 2023rank=2
+AbbVie-ComputationalGenomics|AbbVie|r=9
+abbvie-external|AbbVie|r=8 f=10
+AbbVie|AbbVie|
+abbvie-internal|AbbVie|
+
+# Johnson & Johnson
+*|Johnson & Johnson|country="US" website="https://en.wikipedia.org/wiki/Johnson_%26_Johnson" 2023rank=3
+johnsonandjohnson|Johnson & Johnson|r=36
+
+# Novartis
+*|Novartis|country="CH" website="https://en.wikipedia.org/wiki/Novartis" 2023rank=4
+Novartis|Novartis|r=84 f=121
+novartis-switzerland|Novartis|r=1
+NovartisFoundation|Novartis|r=1
+Novartis-OTC|Novartis|
+Novartispharma|Novartis|
+NovartisPharmaAG|Novartis|
+NovartisAPI|Novartis|
+novartis-healthcare|Novartis|
+novartis-it|Novartis|
+NVS-MD|Novartis|
+
+# Merck & Co.
+*|Merck & Co.|country="US" website="https://en.wikipedia.org/wiki/Merck_%26_Co." 2023rank=5
+Merck|Merck & Co.|r=77 f=129
+merck-dl|Merck & Co.|r=10 f=2
+
+# Roche
+*|Roche|country="CH" website="https://en.wikipedia.org/wiki/Roche" 2023rank=6
+insightsengineering|Roche|r=86 f=229
+genentech|Roche|r=76 f=124
+bedapub|Roche|r=46
+Roche|Roche|r=22 f=121
+bioinform|Roche|r=19 f=28
+Roche-CSI|Roche|r=18 f=4
+
+# Bristol Myers Squibb
+*|Bristol Myers Squibb|country="US" website="https://en.wikipedia.org/wiki/Bristol-Myers_Squibb" 2023rank=7
+BMS-CPP|Bristol Myers Squibb|r=1
+
+# AstraZeneca
+*|AstraZeneca|country="GB" website="https://en.wikipedia.org/wiki/AstraZeneca" 2023rank=8
+AstraZeneca|AstraZeneca|r=61 f=308
+MolecularAI|AstraZeneca|r=38
+AstraZeneca-NGS|AstraZeneca|r=16 f=39
+astrazeneca-cgr-publications|AstraZeneca|r=7 f=14
+AstraZeneca-Code-Club|AstraZeneca|r=4
+AstraZeneca-Omics|AstraZeneca|r=3
+AstraZeneca-CGR|AstraZeneca|
+astrazeneca-automations|AstraZeneca|
+
+# Sanofi
+*|Sanofi|country="FR" website="https://en.wikipedia.org/wiki/Sanofi" 2023rank=9
+Sanofi-Public|Sanofi|r=22 f=41
+Sanofi-IADC|Sanofi|r=8
+PS111761|Sanofi|r=4
+Sanofi-ECCS-DevOps|Sanofi|r=2 f=1
+Sanofi-GitHub|Sanofi|r=1 f=994
+Sanofi-Accelerator|Sanofi|f=40
+Sanofi|Sanofi|
+Sanofi-CHC|Sanofi|archived=True
+Sanofi-OneAI|Sanofi|
+Sanofi-GPMO|Sanofi|
+Sanofi-Shared-GitHub-Apps|Sanofi|
+SanofiTurkey|Sanofi|
+Sanofi-InnerSource|Sanofi|
+inercya-sanofi|Sanofi|
+Sanofi-ebiology-archives|Sanofi|
+SanofiDev|Sanofi|
+
+# GSK
+*|GSK|country="GB" website="https://en.wikipedia.org/wiki/GSK_plc" 2023rank=10
+GSK-Biostatistics|GSK|r=14
+GSK-AI|GSK|r=7 f=15
+
+# Takeda
+*|Takeda|country="JP" website="https://en.wikipedia.org/wiki/Takeda_Pharmaceutical_Company" 2023rank=11
+oneTakeda|Takeda|r=1
+
+# Gilead Sciences
+*|Gilead Sciences|country="US" website="https://en.wikipedia.org/wiki/Gilead_Sciences" 2023rank=12
+Gilead-BioStats|Gilead Sciences|r=5
+Gilead-Biometrics-DataEngineering-Demo|Gilead Sciences|r=5
+kite-research-and-development|Gilead Sciences|r=2 f=20
+ServiceTransition|Gilead Sciences|r=2
+Gilead-IT-GCDM-PDM|Gilead Sciences|r=2
+Gilead-Research-Data-Sciences|Gilead Sciences|r=1
+gilead-kite|Gilead Sciences|f=10
+Gilead-Apps|Gilead Sciences|f=6
+Gilead|Gilead Sciences|f=3
+Gilead-IT-Quality-Engineering|Gilead Sciences|f=3
+Gilead-CDS-Advanced-Analytics|Gilead Sciences|
+Gilead-CPE|Gilead Sciences|
+Gilead-CDS-Clinical-Pharmacology|Gilead Sciences|
+Gilead-IT-GDASHGxP|Gilead Sciences|
+gilead-BioInfo|Gilead Sciences|
+gilead-BioInfo|Gilead Sciences|
+gilead-kite|Gilead Sciences|
+Gilead-CDS-RWE|Gilead Sciences|
+Gilead-IT-GForce|Gilead Sciences|
+Gilead-RND-DOSP|Gilead Sciences|
+Gilead-IT-IAM|Gilead Sciences|
+Gilead-ClinPharm-PMx|Gilead Sciences|
+Gilead-CDS-Biomarker-Programming|Gilead Sciences|
+Gilead-CDS-AppSolutions|Gilead Sciences|
+gilead-DataScienceSystems|Gilead Sciences|
+Gilead-IT-Infra-GBPA|Gilead Sciences|
+Gilead-PDM-BAO|Gilead Sciences|
+Gilead-IT-GVault|Gilead Sciences|
+Gilead-RND-Biology|Gilead Sciences|
+Gilead-EnA-Ent-Platform|Gilead Sciences|
+Gilead-IT-EBS|Gilead Sciences|
+Gilead-DevBusinessOps|Gilead Sciences|
+Gilead-IT-PMO|Gilead Sciences|
+GILEAD-DNA-PLATFORM|Gilead Sciences|
+
+# Eli Lilly
+*|Eli Lilly|country="US" website="https://en.wikipedia.org/wiki/Eli_Lilly_and_Company" 2023rank=13
+EliLillyCo|Eli Lilly|r=10 f=985
+EliLillyCo-Evaluation|Eli Lilly|r=88 f=5
+CornellTech-Eli-Lilly|Eli Lilly|r=2
+Trifexis|Eli Lilly|
+
+# Novo Nordisk
+*|Novo Nordisk|country="DK" website="https://en.wikipedia.org/wiki/Novo_Nordisk" 2023rank=14
+biosustain|Novo Nordisk|r=100 f=40
+nn-dma|Novo Nordisk|r=11
+cbmr-data|Novo Nordisk|r=5
+MedManageW|Novo Nordisk|r=2
+uwece-engine-novo-aed|Novo Nordisk|r=2
+NNF-impact|Novo Nordisk|r=1 f=2
+novonordiskit-itmoc|Novo Nordisk|r=1
+Agile-Arch-Angels|Novo Nordisk|r=1
+red-ddit-nnrco|Novo Nordisk|r=1
+NNBiopharm|Novo Nordisk|r=1
+NovoNordisk-Test|Novo Nordisk|
+Novo-Nordisk-Inc|Novo Nordisk|
+NovoNordiskFoundation|Novo Nordisk|
+NovoNordiskThailand|Novo Nordisk|
+
+# Amgen
+*|Amgen|country="US" website="https://en.wikipedia.org/wiki/Amgen" 2023rank=15
+Amgen|Amgen|r=1 f=4
+
+# Boehringer Ingelheim
+*|Boehringer Ingelheim|country="DE" website="https://en.wikipedia.org/wiki/Boehringer_Ingelheim" 2023rank=16
+Boehringer-Ingelheim|Boehringer Ingelheim|r=33 f=55
+bi-compbio|Boehringer Ingelheim|r=6 f=2
+BICompChem|Boehringer Ingelheim|r=1
+BI-Hackaton2023|Boehringer Ingelheim|f=6
+Boehringer-Ingelheim-GmbH|Boehringer Ingelheim|
+
+# Bayer
+*|Bayer|country="DE" website="https://en.wikipedia.org/wiki/Bayer" 2023rank=17
+Bayer-Group|Bayer|r=105 f=1400
+bayer-science-for-a-better-life|Bayer|r=37
+bayer-int|Bayer|r=1 f=2200
+bayer-secret|Bayer|f=44
+
+# Moderna
+*|Moderna|country="US" website="https://en.wikipedia.org/wiki/Moderna" 2023rank=18
+modernatx|Moderna|r=5
+
+# Viatris
+*|Viatris|country="US" website="https://en.wikipedia.org/wiki/Viatris" 2023rank=19
+ViatrisEmergingTechnology|Viatris|r=1
+inercya-mylan|Viatris|
+
+# CSL
+*|CSL|country="AU" website="https://en.wikipedia.org/wiki/CSL_Limited" 2023rank=20
+
+# Teva Pharmaceutical Industries
+*|Teva Pharmaceutical Industries|country="IS" website="https://en.wikipedia.org/wiki/Teva_Pharmaceuticals" 2023rank=21
+
+# Astellas Pharma
+*|Astellas Pharma|country="JP" website="https://en.wikipedia.org/wiki/Astellas_Pharma" 2023rank=22
+astellasnordic|Astellas Pharma|
+
+# Vertex Pharmaceuticals
+*|Vertex Pharmaceuticals|country="US" website="https://en.wikipedia.org/wiki/Vertex_Pharmaceuticals" 2023rank=23
+
+# Merck Group
+*|Merck Group|country="DE" website="https://en.wikipedia.org/wiki/Merck_Group" 2023rank=24
+merckgroup|Merck Group|r=1 f=59
+AC-BO-Hackathon|Merck Group|r=23 f=28
+
+# Biogen
+*|Biogen|country="US" website="https://en.wikipedia.org/wiki/Merck_Group" 2023rank=25
+Biogen-Inc|Biogen|r=4
+molecularinformatics|Biogen|r=4 f=7
+BioGenR|Biogen|r=3 f=1
+helix-biogen-institute|Biogen|r=2 f=2
+biogen-clarivate|Biogen|r=1 f=2
+Biogen-NGM|Biogen|r=1
+HelixBiogenInstitute|Biogen|f=2
+
+# Otsuka Holdings
+*|Otsuka Holdings|country="JP" website="https://en.wikipedia.org/wiki/Otsuka_Pharmaceutical" 2023rank=26
+
+# Daiichi Sankyo
+*|Daiichi Sankyo|country="JP" website="https://en.wikipedia.org/wiki/Daiichi_Sankyo" 2023rank=27
+daiichisankyo-external|Daiichi Sankyo|f=18
+daiichisankyo-general|Daiichi Sankyo|f=18
+daiichisankyo-training|Daiichi Sankyo|f=15
+daiichisankyo|Daiichi Sankyo|f=1
+Daiichi-Sankyo-Europe-GmbH|Daiichi Sankyo|
+daiichisankyo-admin-dev|Daiichi Sankyo|
+
+# Regeneron Pharmaceuticals
+*|Regeneron Pharmaceuticals|country="US" website="https://en.wikipedia.org/wiki/Regeneron_Pharmaceuticals" 2023rank=28
+rgcgithub|Regeneron Pharmaceuticals|r=6 f=45
+regeneron-mpds|Regeneron Pharmaceuticals|r=5 f=3
+GLB-RGC|Regeneron Pharmaceuticals|
+regenerongeneticscenter|Regeneron Pharmaceuticals|
+
+# Bausch Health Companies
+*|Bausch Health Companies|country="CA" website="https://en.wikipedia.org/wiki/Bausch_Health" 2023rank=29
+bausch-health-companies|Bausch Health Companies|
+Bausch-Lomb|Bausch Health Companies|
+Bausch-Lomb-Thailand|Bausch Health Companies|
+BauschAndLombProjectEngineering|Bausch Health Companies|
+
+# Organon
+*|Organon|country="US" website="https://en.wikipedia.org/wiki/Organon_%26_Co." 2023rank=30
+organon-gitadmin|Organon|r=2
+organon-brasil|Organon|
+
+# UCB
+*|UCB|country="BE" website="https://en.wikipedia.org/wiki/UCB_(company)" 2023rank=31
+
+# Perrigo Company
+*|Perrigo Company|country="IR" website="https://en.wikipedia.org/wiki/Perrigo" 2023rank=32
+Perrigo-Corp|Perrigo Company|f=7
+Perrigo-Salesforce|Perrigo Company|
+
+# Sun Pharmaceutical Industries
+*|Sun Pharmaceutical Industries|country="IN" website="https://en.wikipedia.org/wiki/Sun_Pharmaceutical" 2023rank=33
+devsunpharma|Sun Pharmaceutical Industries|
+
+# Les Laboratoires Servier
+*|Les Laboratoires Servier|country="FR" website="https://en.wikipedia.org/wiki/Laboratoires_Servier" 2023rank=34
+servierhub|Les Laboratoires Servier|r=9 f=2
+ServierDoBrasil|Les Laboratoires Servier|f=4
+servier-github|Les Laboratoires Servier|
+servier-data-factory|Les Laboratoires Servier|
+Servier-Pharmaceuticals-LLC|Les Laboratoires Servier|
+SERVIERDIGITALFACTORY|Les Laboratoires Servier|
+Servier-Laboratories-South-Africa|Les Laboratoires Servier|
+servier-vn1-is|Les Laboratoires Servier|
+Biogaran|Les Laboratoires Servier|
+
+# Chugai Pharmaceutical
+*|Chugai Pharmaceutical|country="JP" website="https://en.wikipedia.org/wiki/Chugai_Pharmaceutical_Co." 2023rank=35
+
+# Abbott Laboratories
+*|Abbott Laboratories|country="US" website="https://en.wikipedia.org/wiki/Abbott_Laboratories" 2023rank=36
+Abbott-Laboratories-Employees-CU|Abbott Laboratories|
+
+# Grifols
+*|Grifols|country="ES" website="https://en.wikipedia.org/wiki/Grifols" 2023rank=37
+Grifols|Grifols|
+grifolslabs|Grifols|
+
+# Eisai
+*|Eisai|country="JP" website="https://en.wikipedia.org/wiki/Eisai_(company)" 2023rank=38
+Eisai-US|Eisai|
+h3biomed-replica|Eisai|
+Eisai-jp|Eisai|
+Eisai-Inc|Eisai|
+Eisai-UK|Eisai|
+
+# Sino Biopharmaceutical
+*|Sino Biopharmaceutical|country="CN" website="https://en.wikipedia.org/wiki/Sinopharm_Group" 2023rank=39
+sinopharm|Sino Biopharmaceutical|
+#? SinOncology|Sino Biopharmaceutical|
+
+# Fresenius
+*|Fresenius|country="DE" website="https://en.wikipedia.org/wiki/Fresenius" 2023rank=40
+fresenius-dux|Fresenius|r=4
+fresenius|Fresenius|r=2
+FreseniusKabi|Fresenius|f=2
+FreseniusMedicalCare|Fresenius|
+Fresenius-Medical-Care|Fresenius|
+fresenius-apps|Fresenius|
+
+# Shanghai Pharmaceuticals Holding
+*|Shanghai Pharmaceuticals Holding|country="CN" website="https://en.wikipedia.org/wiki/Shanghai_Pharmaceuticals" 2023rank=41
+
+# Horizon Therapeutics
+*|Horizon Therapeutics|country="IR" website="https://en.wikipedia.org/wiki/Horizon_Therapeutics" 2023rank=42
+
+# Jiangsu Hengrui Medicine
+*|Jiangsu Hengrui Medicine|country="CN" website="https://en.wikipedia.org/wiki/Jiangsu_Hengrui" 2023rank=43
+
+# Jazz Pharmaceuticals
+*|Jazz Pharmaceuticals|country="IR" website="https://en.wikipedia.org/wiki/Jazz_Pharmaceuticals" 2023rank=44
+Jazzpharma|Jazz Pharmaceuticals|r=1 f=1
+
+# Menarini
+*|Menarini|country="IT" website="https://en.wikipedia.org/wiki/Menarini" 2023rank=45
+Menarini-APAC|Menarini|
+
+# Ipsen
+*|Ipsen|country="FR" website="https://en.wikipedia.org/wiki/Ipsen" 2023rank=46
+ipsen-digital|Ipsen|f=5
+
+# BioNTech
+*|BioNTech|country="DE" website="https://en.wikipedia.org/wiki/BioNTech" 2023rank=47
+biontech-us|BioNTech|r=1
+biontechse|BioNTech|f=67
+biontech|BioNTech|
+
+# CSPC Pharmaceutical Group
+*|CSPC Pharmaceutical Group|country="CN" website="https://en.wikipedia.org/wiki/CSPC_Pharmaceutical_Group" 2023rank=48
+CSPC|CSPC Pharmaceutical Group|
+
+# Incyte
+*|Incyte|country="US" website="https://en.wikipedia.org/wiki/Incyte" 2023rank=49
+Incytecorp|Incyte|f=8
+
+# Novavax
+*|Novavax|country="US" website="https://en.wikipedia.org/wiki/Novavax" 2023rank=50
+Novavax|Novavax|
+
