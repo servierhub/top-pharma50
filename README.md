@@ -1,6 +1,6 @@
 <!--author="Hubert Tournier"-->
 # Top 50 pharmaceutical companies on GitHub
-This is an automatically generated[^1] list of the world [top 50](https://www.pharmexec.com/view/2023-pharm-exec-top-50-companies) [pharmaceutical companies](https://en.wikipedia.org/wiki/List_of_pharmaceutical_companies)[^2] that are present on GitHub. It will be periodically refreshed.
+This is an automatically generated[^1] list of the world's [2023 top 50](https://www.pharmexec.com/view/2023-pharm-exec-top-50-companies) [pharmaceutical companies](https://en.wikipedia.org/wiki/List_of_pharmaceutical_companies)[^2] that are present on GitHub. It will be periodically refreshed.
 
 Also be sure to check our companion list of [best open source software from those companies](https://github.com/servierhub/top-opensource-pharma50).
 
@@ -26,28 +26,13 @@ Also be sure to check our companion list of [best open source software from thos
 |17|[Gilead Sciences](https://en.wikipedia.org/wiki/Gilead_Sciences)|56|17|51|
 |18|[Merck Group](https://en.wikipedia.org/wiki/Merck_Group)|22|22|87|
 |19|[Bristol Myers Squibb](https://en.wikipedia.org/wiki/Bristol-Myers_Squibb)|9|1|0|
-|20|[Takeda](https://en.wikipedia.org/wiki/Takeda_Pharmaceutical_Company)|4|0|0|
-|21|[Les Laboratoires Servier](https://en.wikipedia.org/wiki/Laboratoires_Servier)|1|9|6|
-|22|[Amgen](https://en.wikipedia.org/wiki/Amgen)|0|2|4|
-|22|[Viatris](https://en.wikipedia.org/wiki/Viatris)|0|1|0|
-|22|[Astellas Pharma](https://en.wikipedia.org/wiki/Astellas_Pharma)|0|0|0|
-|22|[Daiichi Sankyo](https://en.wikipedia.org/wiki/Daiichi_Sankyo)|0|0|52|
-|22|[Bausch Health Companies](https://en.wikipedia.org/wiki/Bausch_Health)|0|0|0|
-|22|[Organon](https://en.wikipedia.org/wiki/Organon_%26_Co.)|0|2|0|
-|22|[Perrigo Company](https://en.wikipedia.org/wiki/Perrigo)|0|0|11|
-|22|[Sun Pharmaceutical Industries](https://en.wikipedia.org/wiki/Sun_Pharmaceutical)|0|0|1|
-|22|[Abbott Laboratories](https://en.wikipedia.org/wiki/Abbott_Laboratories)|0|0|0|
-|22|[Grifols](https://en.wikipedia.org/wiki/Grifols)|0|0|0|
-|22|[Eisai](https://en.wikipedia.org/wiki/Eisai_(company))|0|0|13|
-|22|[Sino Biopharmaceutical](https://en.wikipedia.org/wiki/Sinopharm_Group)|0|0|0|
-|22|[Fresenius](https://en.wikipedia.org/wiki/Fresenius)|0|6|2|
-|22|[Jazz Pharmaceuticals](https://en.wikipedia.org/wiki/Jazz_Pharmaceuticals)|0|1|1|
-|22|[Menarini](https://en.wikipedia.org/wiki/Menarini)|0|0|0|
-|22|[Ipsen](https://en.wikipedia.org/wiki/Ipsen)|0|0|5|
-|22|[BioNTech](https://en.wikipedia.org/wiki/BioNTech)|0|1|67|
-|22|[CSPC Pharmaceutical Group](https://en.wikipedia.org/wiki/CSPC_Pharmaceutical_Group)|0|0|0|
-|22|[Incyte](https://en.wikipedia.org/wiki/Incyte)|0|0|8|
-|22|[Novavax](https://en.wikipedia.org/wiki/Novavax)|0|0|0|
+|20|[Les Laboratoires Servier](https://en.wikipedia.org/wiki/Laboratoires_Servier)|1|9|6|
+|21|[Amgen](https://en.wikipedia.org/wiki/Amgen)|0|2|4|
+|21|[Viatris](https://en.wikipedia.org/wiki/Viatris)|0|1|0|
+|21|[Organon](https://en.wikipedia.org/wiki/Organon_%26_Co.)|0|2|0|
+|21|[Fresenius](https://en.wikipedia.org/wiki/Fresenius)|0|6|2|
+|21|[Jazz Pharmaceuticals](https://en.wikipedia.org/wiki/Jazz_Pharmaceuticals)|0|1|1|
+|21|[BioNTech](https://en.wikipedia.org/wiki/BioNTech)|0|1|67|
 
 > [!NOTE]
 > **Repos** includes forked repositories but excludes ".github" or account namesake ones.<br>
@@ -60,7 +45,9 @@ Also be sure to check our companion list of [best open source software from thos
 > edit the [top-pharma50.src](https://github.com/servierhub/top-pharma50/blob/main/top-pharma50.src) source file
 > and make a [pull request](https://docs.github.com/articles/about-pull-requests).
 
-## Ranked by starred repositories with details
+## Ranked by starred repositories with all details
+This listing gives you access to all GitHub accounts used in this survey.
+
 |Rank|Group|GitHub Account|Stars|Repos|Followers|
 |---|---|---|---|---|---|
 |1|[AstraZeneca](https://en.wikipedia.org/wiki/AstraZeneca)||**7393**|**133**|**366**|
