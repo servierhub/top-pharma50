@@ -26,7 +26,7 @@ Also be sure to check our companion list of [best open source software from thos
 |17|[Gilead Sciences](https://en.wikipedia.org/wiki/Gilead_Sciences)|56|17|51|
 |18|[Merck Group](https://en.wikipedia.org/wiki/Merck_Group)|22|22|87|
 |19|[Bristol Myers Squibb](https://en.wikipedia.org/wiki/Bristol-Myers_Squibb)|9|1|0|
-|20|[Les Laboratoires Servier](https://en.wikipedia.org/wiki/Laboratoires_Servier)|1|9|6|
+|20|[Les Laboratoires Servier](https://en.wikipedia.org/wiki/Laboratoires_Servier)|7|14|6|
 |21|[Amgen](https://en.wikipedia.org/wiki/Amgen)|0|2|4|
 |21|[Viatris](https://en.wikipedia.org/wiki/Viatris)|0|1|0|
 |21|[Organon](https://en.wikipedia.org/wiki/Organon_%26_Co.)|0|2|0|
@@ -46,8 +46,7 @@ Also be sure to check our companion list of [best open source software from thos
 > and make a [pull request](https://docs.github.com/articles/about-pull-requests).
 
 ## Ranked by starred repositories with all details
-This listing gives you access to all GitHub accounts used in this survey.
-
+This listing gives you access to all GitHub accounts used in this survey:
 |Rank|Group|GitHub Account|Stars|Repos|Followers|
 |---|---|---|---|---|---|
 |1|[AstraZeneca](https://en.wikipedia.org/wiki/AstraZeneca)||**7393**|**133**|**366**|
@@ -218,10 +217,8 @@ This listing gives you access to all GitHub accounts used in this survey.
 |||<img src="https://avatars.githubusercontent.com/u/130660398?s=200&v=4" width="32" height="32"> [Merck KGaA](https://github.com/merckgroup)|0|0|59|
 |19|[Bristol Myers Squibb](https://en.wikipedia.org/wiki/Bristol-Myers_Squibb)||**9**|**1**|**0**|
 |||<img src="https://avatars.githubusercontent.com/u/72743984?s=200&v=4" width="32" height="32"> [BMS-CPP](https://github.com/BMS-CPP)|9|1|0|
-|20|[Takeda](https://en.wikipedia.org/wiki/Takeda_Pharmaceutical_Company)||**4**|**0**|**0**|
-|||<img src="https://avatars.githubusercontent.com/u/60409014?s=200&v=4" width="32" height="32"> [Takeda](https://github.com/oneTakeda)|4|0|0|
-|21|[Les Laboratoires Servier](https://en.wikipedia.org/wiki/Laboratoires_Servier)||**1**|**9**|**6**|
-|||<img src="https://avatars.githubusercontent.com/u/163363937?s=200&v=4" width="32" height="32"> [SERVIER HUB](https://github.com/servierhub)|1|9|2|
+|20|[Les Laboratoires Servier](https://en.wikipedia.org/wiki/Laboratoires_Servier)||**7**|**14**|**6**|
+|||<img src="https://avatars.githubusercontent.com/u/163363937?s=200&v=4" width="32" height="32"> [SERVIER HUB](https://github.com/servierhub)|7|14|2|
 |||<img src="https://avatars.githubusercontent.com/u/88554853?s=200&v=4" width="32" height="32"> [Servier do Brasil](https://github.com/ServierDoBrasil)|0|0|4|
 |||<img src="https://avatars.githubusercontent.com/u/71084417?s=200&v=4" width="32" height="32"> [Servier](https://github.com/servier-github)|0|0|0|
 |||<img src="https://avatars.githubusercontent.com/u/77001237?s=200&v=4" width="32" height="32"> [servier-data-factory](https://github.com/servier-data-factory)|0|0|0|
@@ -230,6 +227,8 @@ This listing gives you access to all GitHub accounts used in this survey.
 |||<img src="https://avatars.githubusercontent.com/u/69671602?s=200&v=4" width="32" height="32"> [Servier Laboratories South Africa](https://github.com/Servier-Laboratories-South-Africa)|0|0|0|
 |||<img src="https://avatars.githubusercontent.com/u/78061992?s=200&v=4" width="32" height="32"> [Servier Vietnam IS](https://github.com/servier-vn1-is)|0|0|0|
 |||<img src="https://avatars.githubusercontent.com/u/16940165?v=4" width="32" height="32"> [Biogaran](https://github.com/Biogaran)|0|0|0|
+|21|[Takeda](https://en.wikipedia.org/wiki/Takeda_Pharmaceutical_Company)||**4**|**0**|**0**|
+|||<img src="https://avatars.githubusercontent.com/u/60409014?s=200&v=4" width="32" height="32"> [Takeda](https://github.com/oneTakeda)|4|0|0|
 |22|[Amgen](https://en.wikipedia.org/wiki/Amgen)||**0**|**2**|**4**|
 |||<img src="https://avatars.githubusercontent.com/u/5695404?s=200&v=4" width="32" height="32"> [Amgen](https://github.com/Amgen)|0|2|4|
 |22|[Viatris](https://en.wikipedia.org/wiki/Viatris)||**0**|**1**|**0**|
@@ -295,5 +294,5 @@ This listing gives you access to all GitHub accounts used in this survey.
 |||<img src="https://avatars.githubusercontent.com/u/84994519?s=200&v=4" width="32" height="32"> [Novavax](https://github.com/Novavax)|0|0|0|
 
 [^1]: This page was generated with the [topgh](https://github.com/HubTou/topgh) open source software on
-2024-05-22
+2024-05-23
 [^2]: Independent from other groups
