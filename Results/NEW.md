@@ -9,7 +9,7 @@ It will be periodically refreshed from these [GitHub accounts](SOURCES.md) repos
 You can also access the [ranked listing of open source software](/README.md) they share
 and [which topics are covered](TOPICS.md) by these software.
 
-## Sorted by last update
+## Sorted by last update till 2024-06-09
 Taking the 200 last ones.
 
 > [!NOTE]

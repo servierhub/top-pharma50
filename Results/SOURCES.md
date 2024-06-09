@@ -16,7 +16,7 @@ and [which topics are covered](TOPICS.md) by these software.
 |1|[AstraZeneca](https://en.wikipedia.org/wiki/AstraZeneca)|7479|133|376|
 |2|[Novartis](https://en.wikipedia.org/wiki/Novartis)|4811|126|424|
 |3|[Roche](https://en.wikipedia.org/wiki/Roche)|3129|277|535|
-|4|[Bayer](https://en.wikipedia.org/wiki/Bayer)|1763|145|3846|
+|4|[Bayer](https://en.wikipedia.org/wiki/Bayer)|1763|146|3846|
 |5|[Merck & Co.](https://en.wikipedia.org/wiki/Merck_%26_Co.)|1006|86|135|
 |6|[Novo Nordisk](https://en.wikipedia.org/wiki/Novo_Nordisk)|961|153|47|
 |7|[Sanofi](https://en.wikipedia.org/wiki/Sanofi)|308|38|1185|
@@ -85,10 +85,11 @@ This listing gives you access to all GitHub accounts used in this survey:
 |||<img src="https://avatars.githubusercontent.com/u/2841765?s=200&v=4" width="32" height="32"> [F. Hoffmann-La Roche](https://github.com/Roche)|610|24|125|
 |||<img src="https://avatars.githubusercontent.com/u/39733410?s=200&v=4" width="32" height="32"> [BEDApub](https://github.com/bedapub)|104|46|0|
 |||<img src="https://avatars.githubusercontent.com/u/96266814?s=200&v=4" width="32" height="32"> [Roche Diagnostics Computation Science & Informatics](https://github.com/Roche-CSI)|0|18|5|
-|4|[Bayer](https://en.wikipedia.org/wiki/Bayer)||**1763**|**145**|**3846**|
+|4|[Bayer](https://en.wikipedia.org/wiki/Bayer)||**1763**|**146**|**3846**|
 |||<img src="https://avatars.githubusercontent.com/u/64074560?s=200&v=4" width="32" height="32"> [Bayer Open Source](https://github.com/Bayer-Group)|1447|108|1500|
 |||<img src="https://avatars.githubusercontent.com/u/65339050?s=200&v=4" width="32" height="32"> [Bayer AG](https://github.com/bayer-science-for-a-better-life)|301|37|0|
 |||<img src="https://avatars.githubusercontent.com/u/87472566?s=200&v=4" width="32" height="32"> [Bayer](https://github.com/bayer-int)|15|0|2300|
+|||<img src="https://avatars.githubusercontent.com/u/86244997?s=200&v=4" width="32" height="32"> [Bayer Staging](https://github.com/bayer-staging)|0|1|0|
 |||<img src="https://avatars.githubusercontent.com/u/111570341?s=200&v=4" width="32" height="32"> [Bayer Secret](https://github.com/bayer-secret)|0|0|46|
 |5|[Merck & Co.](https://en.wikipedia.org/wiki/Merck_%26_Co.)||**1006**|**86**|**135**|
 |||<img src="https://avatars.githubusercontent.com/u/7306189?s=200&v=4" width="32" height="32"> [Merck Sharp & Dohme Corp. a subsidiary of Merck & Co., Inc.](https://github.com/Merck)|1006|76|135|

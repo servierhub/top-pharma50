@@ -6,6 +6,8 @@
 This is an automatically generated[^1] list of topics covered by [open source](https://opensource.org/osd) software from the world's [2023 top 50](https://www.pharmexec.com/view/2023-pharm-exec-top-50-companies) [pharmaceutical companies](https://en.wikipedia.org/wiki/List_of_pharmaceutical_companies)[^2] that are present on GitHub.
 It will be periodically refreshed from these [GitHub accounts](SOURCES.md) repositories.
 
+Unleash [serendipity](https://en.wikipedia.org/wiki/Serendipity) to discover new software from the accounts and repositories we selected!
+
 You can also access the [ranked listing of open source software](/README.md) they share,
 [what they have updated lately](NEW.md),
 and [which topics are covered](TOPICS.md) by these software.
@@ -24,9 +26,10 @@ and [which topics are covered](TOPICS.md) by these software.
 |6|14|[**clinical-trials**](https://github.com/topics/clinical-trials)|
 |7|12|[**bioinformatics**](https://github.com/topics/bioinformatics)|
 |7|12|[**machine-learning**](https://github.com/topics/machine-learning)|
+|7|12|[**beat-not-applicable**](https://github.com/topics/beat-not-applicable)|
 |8|11|[**linked-data**](https://github.com/topics/linked-data)|
 |8|11|[**rdf**](https://github.com/topics/rdf)|
-|8|11|[**beat-not-applicable**](https://github.com/topics/beat-not-applicable)|
+|9|10|[**bayer-reg-none**](https://github.com/topics/bayer-reg-none)|
 |9|10|[**elasticsearch**](https://github.com/topics/elasticsearch)|
 |9|10|[**data-catalog**](https://github.com/topics/data-catalog)|
 |9|10|[**cloud-native**](https://github.com/topics/cloud-native)|
@@ -39,7 +42,6 @@ and [which topics are covered](TOPICS.md) by these software.
 |9|10|[**colid**](https://github.com/topics/colid)|
 |10|9|[**genomics**](https://github.com/topics/genomics)|
 |10|9|[**actions**](https://github.com/topics/actions)|
-|10|9|[**bayer-reg-none**](https://github.com/topics/bayer-reg-none)|
 |11|8|[**cheminformatics**](https://github.com/topics/cheminformatics)|
 |11|8|[**drug-discovery**](https://github.com/topics/drug-discovery)|
 |11|8|[**knowledge-graph**](https://github.com/topics/knowledge-graph)|
@@ -665,6 +667,8 @@ and [which topics are covered](TOPICS.md) by these software.
 |18|1|[**graph-representation-learning**](https://github.com/topics/graph-representation-learning)|
 |18|1|[**hypercomplex**](https://github.com/topics/hypercomplex)|
 |18|1|[**extended-connectivity-fingerprints**](https://github.com/topics/extended-connectivity-fingerprints)|
+|18|1|[**bayer-internal**](https://github.com/topics/bayer-internal)|
+|18|1|[**safe-settings-testing**](https://github.com/topics/safe-settings-testing)|
 |18|1|[**automation**](https://github.com/topics/automation)|
 |18|1|[**scanning**](https://github.com/topics/scanning)|
 |18|1|[**devsecops**](https://github.com/topics/devsecops)|

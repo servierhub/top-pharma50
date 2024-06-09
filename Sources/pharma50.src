@@ -50,6 +50,7 @@ abbvie-internal|AbbVie|
 johnsonandjohnson|Johnson & Johnson|r=36
 
 # Novartis
+# See https://www.novartis.com/research-development/open-source-science
 *|Novartis|country="CH" website="https://en.wikipedia.org/wiki/Novartis" 2023rank=4
 Novartis|Novartis|r=84 f=121
 rdkit|Novartis|r=38 f=292
@@ -198,6 +199,7 @@ Boehringer-Ingelheim-GmbH|Boehringer Ingelheim|
 *|Bayer|country="DE" website="https://en.wikipedia.org/wiki/Bayer" 2023rank=17
 Bayer-Group|Bayer|r=105 f=1400
 bayer-science-for-a-better-life|Bayer|r=37
+bayer-staging|Bayer|r=1
 bayer-int|Bayer|r=1 f=2200
 bayer-secret|Bayer|f=44
 
