@@ -52,6 +52,7 @@ johnsonandjohnson|Johnson & Johnson|r=36
 # Novartis
 *|Novartis|country="CH" website="https://en.wikipedia.org/wiki/Novartis" 2023rank=4
 Novartis|Novartis|r=84 f=121
+rdkit|Novartis|r=38 f=292
 novartis-switzerland|Novartis|r=1
 NovartisFoundation|Novartis|r=1
 Novartis-OTC|Novartis|
@@ -166,6 +167,7 @@ Trifexis|Eli Lilly|
 # Novo Nordisk
 *|Novo Nordisk|country="DK" website="https://en.wikipedia.org/wiki/Novo_Nordisk" 2023rank=14
 biosustain|Novo Nordisk|r=100 f=40
+NovoNordisk-OpenSource|Novo Nordisk|r=26
 nn-dma|Novo Nordisk|r=11
 cbmr-data|Novo Nordisk|r=5
 MedManageW|Novo Nordisk|r=2

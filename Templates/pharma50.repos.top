@@ -1,12 +1,13 @@
 <!--author="Hubert Tournier"-->
-<!--topgh:source id="pharma50" file="pharma50.src"-->
+<!--topgh:source id="pharma50" file="Sources/pharma50.src"-->
 <!--topgh:destination file="Results/README.md" format="MD" page1_in_root=True-->
 [![Servier Contributed](https://raw.githubusercontent.com/servierhub/.github/main/badges/contributed.svg)](https://github.com/ServierHub/)
 # Top open source software from the top 50 pharmaceutical companies
-This is an automatically generated[^1] list of [open source](https://opensource.org/osd) software from the world's [2023 top 50](https://www.pharmexec.com/view/2023-pharm-exec-top-50-companies) [pharmaceutical companies](https://en.wikipedia.org/wiki/List_of_pharmaceutical_companies)[^2] that are present on GitHub. It will be periodically refreshed from these [GitHub accounts](SOURCES.md) repositories.
+This is an automatically generated[^1] list of [open source](https://opensource.org/osd) software from the world's [2023 top 50](https://www.pharmexec.com/view/2023-pharm-exec-top-50-companies) [pharmaceutical companies](https://en.wikipedia.org/wiki/List_of_pharmaceutical_companies)[^2] that are present on GitHub.
+It will be periodically refreshed from these [GitHub accounts](<!--topgh:insert_if_page1 text="Results/"-->SOURCES.md) repositories.
 
-You can also check [what has been updated lately](NEW.md).
-<!--missing feature: manually add "Results/" in the 2 previous links on first page-->
+You can also access [what they have updated lately](<!--topgh:insert_if_page1 text="Results/"-->NEW.md)
+and [which topics are covered](<!--topgh:insert_if_page1 text="Results/"-->TOPICS.md) by these software.
 
 ## Ranked by starred repositories
 > [!NOTE]
@@ -19,6 +20,5 @@ You can also check [what has been updated lately](NEW.md).
 
 <!--topgh:top.repositories.1 source="pharma50" order_by="stargazers_count" page_items=200-->
 
-[^1]: This page was generated with the [topgh](https://github.com/HubTou/topgh) open source software on 
-<!--topgh:date-->
+[^1]: This page was generated with the [topgh](https://github.com/HubTou/topgh) open source software on <!--topgh:date-->
 [^2]: Independent from other groups
